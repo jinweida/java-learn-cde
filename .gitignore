@@ -25,4 +25,5 @@
 *.zip  
 *.via
 *.tmp
-*.err 
+*.err
+.gitignore 
